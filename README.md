@@ -1,8 +1,6 @@
-# SICSS-25
+# Agentic AI
 
-Summer Institute in Computational Social Science
-
-Materiales de "Modelado basado en agentes para la simulación de fenómenos sociales"
+Materiales de la charla "Agentes inteligentes"
 
 
 Referencias importantes en el tema (selección no exhaustiva)
