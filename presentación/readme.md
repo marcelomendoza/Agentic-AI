@@ -1,1 +1,1 @@
-Presentación usada en SICSS 2025 por Marcelo Mendoza
+Presentación usada en la charla "Agentes inteligentes" por Marcelo Mendoza
