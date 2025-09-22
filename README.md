@@ -13,6 +13,7 @@ Referencias importantes en el tema (selección no exhaustiva)
 6. Khattab, O., Singhvi, A., Maheshwari, P., Zhang, Z., Santhanam, K., Vardhamanan, S., Haq, S., Sharma, A., Joshi, T. T., Moazam, H., Miller, H., Zaharia, M., & Potts, C. (2024). DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines. The Twelfth International Conference on Learning Representations. https://arxiv.org/abs/2310.03714
 7. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E., Le, Q., & Zhou, D. (2022). *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*. *Advances in Neural Information Processing Systems*, 35, 24824–24837. https://arxiv.org/abs/2201.11903
 8. Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2023). *ReAct: Synergizing Reasoning and Acting in Language Models*. *ICLR 2023*, https://arxiv.org/pdf/2210.03629
+9. Zheng, L., Chiang, W., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z., Li, Z., Li, D., Xing, E., Zhang, H., Gonzalez, J., & Stoica, I. *Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena*, *Advances in Neural Information Processing Systems*, 36, 46595 - 46623. https://arxiv.org/abs/2306.05685
 
 
 Material preparado por Marcelo Mendoza (mailto:marcelo.mendoza@uc.cl)
