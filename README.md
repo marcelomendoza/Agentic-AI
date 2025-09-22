@@ -18,6 +18,8 @@ Referencias importantes en el tema (selección no exhaustiva)
 11. Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., Chowdhery, A., & Zhou, D. (2023). Self-Consistency Improves Chain of Thought Reasoning in Language Models, *ICLR 2023*, https://arxiv.org/abs/2203.11171
 12. Liang, T., He, Z., Jiao, W., Wang, X., Wang, Y., Wang, R., Yang, Y., Shi, S., & Tu, Z. (2024). Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate, *EMNLP 2024 – Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing*, https://arxiv.org/abs/2305.19118
 13. Du, Y., Li, S., Torralba, A., Tenenbaum, J., & Mordatch, I. (2024). Improving Factuality and Reasoning in Language Models through Multiagent Debate, *ICLR 2024*, https://arxiv.org/abs/2305.14325
+14. Li, G., Hammoud, A., Itani, H., Khizbullin, D., & Ghanem, B. (2023). CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society, *Advances in Neural Information Processing Systems*, 36, https://arxiv.org/pdf/2303.17760
+
     
      
 
